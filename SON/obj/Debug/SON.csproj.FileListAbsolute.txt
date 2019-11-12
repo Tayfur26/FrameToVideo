@@ -1,0 +1,6 @@
+C:\Users\tyfr_\source\repos\SON\SON\obj\Debug\SON.csprojAssemblyReference.cache
+C:\Users\tyfr_\source\repos\SON\SON\bin\Debug\SON.exe.config
+C:\Users\tyfr_\source\repos\SON\SON\bin\Debug\SON.exe
+C:\Users\tyfr_\source\repos\SON\SON\bin\Debug\SON.pdb
+C:\Users\tyfr_\source\repos\SON\SON\obj\Debug\SON.exe
+C:\Users\tyfr_\source\repos\SON\SON\obj\Debug\SON.pdb
